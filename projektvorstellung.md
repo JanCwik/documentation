@@ -5,7 +5,7 @@ Datenplattformarchitektur für die Realisierung unterschiedlicher Machine Learni
 implementiert. In der Architektur werden für eine möglichst umfassende Automatisierung des Machine Learning Lifecycles
 Komponenten der Disziplin Machine Learning Operations (MLOps) berücksichtigt.
 
-```{figure} ../images/mlops.png
+```{figure} mlops.png
 ---
 name: mlops
 ---
