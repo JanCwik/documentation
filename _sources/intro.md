@@ -1,16 +1,8 @@
-# Wilkommen zur Dokumentation
+# Wilkommen zur Dokumentation des Projekts MLOps
 
-This is a small sample book to give you a feel for how book content is
-structured.
+In diesem Jupyter-Book wird das Projekt dokumentiert. In den Kapiteln
+werden beispielsweise sowohl der Use Case als auch die Vorgehensweisen und Probleme
+erläutert. Das Ziel der Dokumentation ist es, das Projekt übergeben und damit
+weiterarbeiten zu können.
 
-:::{note}
-Here is a note!
-:::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
+Das Team besteht aus vier Personen (Alexander Ciuffreda, Jan Cwik, Cassandra Könitzer, Cenk Yagkan)
