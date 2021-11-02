@@ -6,8 +6,8 @@ root: intro
 parts:
   - caption: Einführung
     chapters:
-      - file: projektvorstellung
-      - file: use_case
+      - file: ./einführung/projektvorstellung.md
+      - file: ./einführung/use_case
   - caption: Recherche
     chapters:
       - file: technologien
