@@ -6,12 +6,8 @@ root: intro
 parts:
   - caption: Einführung
     chapters:
-      - file: ./einführung/projektvorstellung.md
-      - file: ./einführung/use_case
+      - file: projektvorstellung
+      - file: use_case
   - caption: Recherche
     chapters:
       - file: technologien
-        sections:
-          - file: airflow
-          - file: tensorflow
-          - file: kubeflow
