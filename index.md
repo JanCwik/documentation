@@ -1,4 +1,4 @@
-# Wilkommen zur Dokumentation des Projekts MLOps
+# Herzlich Willkommen!
 
 In diesem Jupyter-Book wird das Projekt dokumentiert. In den Kapiteln
 werden beispielsweise sowohl der Use Case als auch die Vorgehensweisen und Probleme
