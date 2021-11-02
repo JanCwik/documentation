@@ -8,9 +8,9 @@ implementiert.
 In der Architektur werden für eine möglichst umfassende Automatisierung des Machine Learning Lifecycles
 Komponenten der Disziplin Machine Learning Operations (MLOps) berücksichtigt.
 
-```{figure} mlops.png
+```{figure} ./images/mlops.png
 ---
-width: 500px
+width: 300px
 name: mlops
 ---
 Machine Learning Operations Lifecycle
