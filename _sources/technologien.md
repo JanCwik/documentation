@@ -1,3 +1,3 @@
-# Hier werden die Technologien und Probleme damit beschrieben
+# Technologien
 
-asdasd
+Hier werden die verwendeten Technologien und die Probleme, die dabei aufgetreten sind erläutert.
