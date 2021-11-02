@@ -3,6 +3,14 @@
 
 format: jb-book
 root: intro
-chapters:
-  - file: projektvorstellung
-  - file: notebooks
+parts:
+  - caption: Einführung
+    chapters:
+      - file: projektvorstellung
+  - caption: Recherche
+    chapters:
+      - file: technologien
+        sections:
+          - file: airflow
+          - file: notebooks
+          - file: kubeflow
